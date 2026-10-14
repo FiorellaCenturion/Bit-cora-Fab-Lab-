@@ -15,6 +15,7 @@ site:
           title: Bitácora FabLab | Fiorella Centurión
           path: fablab-fio
           default: true
+          draft: true
           content:
             directory: ./fablab-fio
             language: es
