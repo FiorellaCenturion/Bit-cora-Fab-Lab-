@@ -1,0 +1,20 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Fiorella Centurión
+  structure:
+    - type: section
+      key: section-1
+      title: Bitácora FabLab | Fiorella Centurión
+      path: fablab-fio
+      description: ""
+      icon: github
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: Bitácora FabLab | Fiorella Centurión
+          path: fablab-fio
+          default: true
+          content:
+            directory: ./fablab-fio
+            language: es
