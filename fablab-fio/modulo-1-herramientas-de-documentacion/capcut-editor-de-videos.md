@@ -2,13 +2,13 @@
 description: >-
   Editor de video todo en uno, gratuito y fácil de usar, desarrollado por
   ByteDance (creadores de TikTok) para celulares, computadoras y la web.
-icon: '3'
+icon: films
 cover: ../.gitbook/assets/recursos gitbook (6).png
 coverY: 0
 coverHeight: 322
 ---
 
-# Capcut | Editor de videos
+# Capcut • Editor de videos
 
 ## <mark style="color:$info;">**¿Qué es CapCut y para qué se utiliza?**</mark>
 

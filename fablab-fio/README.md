@@ -36,4 +36,6 @@ Me gusta aprender, explorar nuevas ideas y descubrir distintas formas de hacer d
 
 Espero que disfrutes acompañarme en este recorrido tanto como yo disfruté vivirlo y documentarlo ;)
 
+•
+
 Clic abajo para continuar ↓

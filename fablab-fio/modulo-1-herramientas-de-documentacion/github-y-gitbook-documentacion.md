@@ -1,6 +1,6 @@
 ---
 description: Creación de cuentas de documentación
-icon: '1'
+icon: github
 cover: ../.gitbook/assets/recursos gitbook (3).png
 coverY: -3.9233716475095783
 coverHeight: 344
@@ -30,7 +30,7 @@ layout:
     visible: true
 ---
 
-# Contenido 1
+# GitHub y GitBook • Documentación
 
 ## <mark style="color:$info;">**¿Qué son GitHub y GitBook?**</mark>
 
@@ -58,7 +58,7 @@ Lo bueno es que las dos se pueden conectar entre sí, así que lo que escribo en
 
 {% stepper %}
 {% step %}
-### <mark style="color:$warning;">Registro en GitHub</mark>
+### Registro en GitHub
 
 <figure><img src="../.gitbook/assets/github.png" alt=""><figcaption><p>Al ingresar a la página web y al registro, le di directo a iniciar con mi cuenta de Google.</p></figcaption></figure>
 
@@ -66,7 +66,7 @@ Lo primero que realicé fue entrar al apartado de documentación que nos facilit
 {% endstep %}
 
 {% step %}
-### <mark style="color:$warning;">Exploración</mark>
+### Exploración
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Captura del inicio de la plataforma de GitHub</p></figcaption></figure>
 
@@ -74,7 +74,7 @@ Al registrarme todo, entré a lo que sería la página principal y realmente mi 
 {% endstep %}
 
 {% step %}
-### <mark style="color:$warning;">Autenticación de cuenta</mark>
+### Autenticación de cuenta
 
 Una vez ya creada mi cuenta, lo que pasé a realizar después fue el enlazarlo o sincronizarlo a GitBook, para ello me pedía poder validar la cuenta descargando la app y agregando mi correo electrónico entre otras cosas, por lo que realicé cada uno de esos pasos.
 
@@ -84,7 +84,7 @@ Al confirmar o autenticar lo que sería mi cuenta no pude utilizar la app para e
 {% endstep %}
 
 {% step %}
-### <mark style="color:$warning;">Sincronización con GitBook</mark>
+### Sincronización con GitBook
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2026-10-09 122532.png" alt=""><figcaption></figcaption></figure>
 
@@ -98,7 +98,7 @@ En este paso lo que quise hacer fue como sincronizar mi cuenta de GibHub con Git
 
 {% stepper %}
 {% step %}
-### <mark style="color:$warning;">Registro en GitBook</mark>
+### Registro en GitBook
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2026-10-09 124051.png" alt=""><figcaption></figcaption></figure>
 
@@ -106,7 +106,7 @@ Lo primero que hice fue buscar GitBook en google y entrar al link de la página,
 {% endstep %}
 
 {% step %}
-### <mark style="color:$warning;">Exploración</mark>
+### Exploración
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2026-10-09 125517.png" alt=""><figcaption></figcaption></figure>
 
@@ -120,38 +120,17 @@ Al principio lo que hice fue como usar una estructura de documentación ya hecha
 
 Luego de buscar y buscar, de probar de todas las formas posibles, la compañera Cielo me ayudó con la parte de desbloquear lo que sería la edición primeramente ayudandome a crear un nuevo espacio de trabajo para luego añadirle lo que sería una página en blanco y de ahí empezar a realizar mi bitácora sin la necesidad de una plantilla.
 
+<figure><img src="../.gitbook/assets/Captura de pantalla 2026-10-09 162426.png" alt=""><figcaption></figcaption></figure>
 
-
-El error que encontramos dentro de todo esto fue que mi página ya se encontraba publicada por lo que no me dejaba editar en tiempo real, una vez que le dimos a no publicar o a quitar esa opción ya POR FIN me dejaba realizar las ediciones correspondientes por lo que después de unas largas horas ya pude al fin empezar con lo que sería mi bitácora.
+El error que encontramos dentro de todo esto fue que mi página ya se encontraba publicada por lo que no me dejaba editar en tiempo real, una vez solucionado eso ya pude empezar con la edición de la misma.
 {% endstep %}
 
 {% step %}
-### <mark style="color:$warning;">Autenticación de cuenta</mark>
+### Personalización de mi bitácora
 
-Una vez ya creada mi cuenta, lo que pasé a realizar después fue el enlazarlo o sincronizarlo a GitBook, para ello me pedía poder validar la cuenta descargando la app y agregando mi correo electrónico entre otras cosas, por lo que realicé cada uno de esos pasos.
+Ya con todo listo para poder empezar a trabajar lo que hice primeramente fue delimitar los colores que quería utilizar para la parte estética de mi bitácora, así también como su estructura, el tamaño que iban a abarcar las imágenes dentro de la misma y la forma en la que iba a presentar la información o a redactar la misma, realicé los covers de las distintas páginas correspondientes tanto a cada módulo como también a cada programa trabajado y los fui colocando a medida que iba redactanto lo elaborado dentro de cada uno, los covers para las páginas los realicé tipo collage en la plataforma de Canva, ya que me resultaba mucho más fácil.
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2026-10-09 121432.png" alt=""><figcaption><p>Captura de la app de GitHub.</p></figcaption></figure>
-
-Al confirmar o autenticar lo que sería mi cuenta no pude utilizar la app para escritorio ya que pide una suscripción para la misma por lo que utilicé la plataforma en su versión web nada mas.
-{% endstep %}
-
-{% step %}
-### <mark style="color:$warning;">Sincronización con GitBook</mark>
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2026-10-09 122532.png" alt=""><figcaption></figcaption></figure>
-
-En este paso lo que quise hacer fue como sincronizar mi cuenta de GibHub con GitBook y si bien ya lo podía hacer me pedía como elaborar un repositorio lo que realmente no comprendí en primera instancia el como realizarlo o crearlo ya que es la primera vez que trabajo con una plataforma que involucra conocimientos básicos en informática, como con lo que sería la implementación de códigos entre otras cosas por lo que en este campo en específico lo terminé dejando así, sin sincronizar ya que no le comprendí demasiado.
+<figure><img src="../.gitbook/assets/Captura de pantalla 2026-10-09 163109.png" alt=""><figcaption><p>Elaboración de covers tipo collage en la plataforma de Canva </p></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
-Después de GitHub, creé mi cuenta en GitBook, que es la herramienta donde armé toda esta documentación. Acá la cosa fue distinta: este paso me dio bastantes dolores de cabeza.
-
-Primero creé la cuenta y mi espacio de trabajo sin problemas. Pero cuando quise empezar a escribir y a editar el contenido, no me dejaba. Probé varias veces, busqué los botones, cambié de pantalla y nada. No entendía qué estaba haciendo mal.&#x20;
-
-Mi compañera Cielo me ayudó a revisarlo. Entre las dos probamos distintas cosas y, finalmente, con la ayuda del soporte de la página, logramos llegar a la edición.
-
-El problema estaba en cómo tenía configurado mi espacio de trabajo: estaba en **publicar directamente**. Esa opción hace que lo que hay en el espacio se publique tal cual, sin pasar por un borrador, y por eso no se podía editar como yo esperaba. Era una configuración que yo no sabía que estaba así desde el principio.
-
-Una vez que se corrigió eso, pude entrar por fin en modo edición, crear mis páginas y empezar a armar la documentación con tranquilidad.&#x20;
-
-Lo que aprendí de esto es que, si GitBook no te deja editar, lo primero que hay que revisar es cómo está configurado el espacio de trabajo, antes de pensar que es un error tuyo o que la cuenta quedó mal. Y no está de más pedir ayuda a alguien o al soporte, porque a veces el problema es una opción chiquita que uno no ve.

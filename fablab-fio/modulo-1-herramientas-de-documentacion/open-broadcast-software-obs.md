@@ -2,13 +2,13 @@
 description: >-
   Programa gratuito y de código abierto diseñado para la grabación de video y la
   transmisión en vivo por internet.
-icon: '4'
+icon: camera-web
 cover: ../.gitbook/assets/recursos gitbook (7).png
 coverY: 0
 coverHeight: 324
 ---
 
-# Open Broadcast Software | OBS
+# Open Broadcast Software • OBS
 
 ## <mark style="color:$info;">**¿Qué es OBS y para qué sirve?**</mark>
 

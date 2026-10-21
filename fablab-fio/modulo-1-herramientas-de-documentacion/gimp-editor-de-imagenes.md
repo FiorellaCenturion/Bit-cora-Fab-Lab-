@@ -2,13 +2,13 @@
 description: >-
   Programa de edición y manipulación de imágenes digital de código abierto y
   gratuito
-icon: '2'
+icon: image-landscape
 cover: ../.gitbook/assets/recursos gitbook (4).png
 coverY: 0
 coverHeight: 390
 ---
 
-# Gimp | Editor de imágenes
+# Gimp • Editor de imágenes
 
 ## <mark style="color:$info;">**¿Qué es GIMP y para qué se utiliza?**</mark>
 
