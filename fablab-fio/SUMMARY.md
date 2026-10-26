@@ -11,5 +11,5 @@
   * [Introducción • Plotter de corte](modulo-2-corte-y-dibujo-con-ploter-de-corte/introduccion-plotter-de-corte.md)
   * [Sticker multicapas](modulo-2-corte-y-dibujo-con-ploter-de-corte/sticker-multicapas.md)
   * [Grasshopper](modulo-2-corte-y-dibujo-con-ploter-de-corte/grasshopper.md)
-  * [City road](modulo-2-corte-y-dibujo-con-ploter-de-corte/city-road.md)
-  * [Contenido 5](modulo-2-corte-y-dibujo-con-ploter-de-corte/contenido-5.md)
+  * [City roads](modulo-2-corte-y-dibujo-con-ploter-de-corte/city-roads.md)
+  * [Penploter art](modulo-2-corte-y-dibujo-con-ploter-de-corte/penploter-art.md)

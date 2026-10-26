@@ -173,6 +173,8 @@ Ya cuando tenía todo preparado empecé con el armado de las capas, pegando con 
 <figure><img src="../.gitbook/assets/WhatsApp Image 2026-10-21 at 1.05.59 PM (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 Y así fue como me quedaron mis stickers finalmente, al inicio tenia pensado colocarle sus ojitos en color blanco pero me gustaron más con el contraste en color amarillo, ya armados todos los stickers consideré que a pesar de las adversidades jaja vale muchísimo la pena realizar un trabajo de esta forma, la solución que encontré para poder evitar que los cortes se arrastren o no salgan finalmente fue imprimir uno a uno cada sticker por separado ya que de esa forma no le forzaba demasiado trabajar a Vivi, por lo que tuve un resultado dentro de lo que cabe bastante prolijo y satisfactorio c:
+
+<figure><img src="../.gitbook/assets/WhatsApp Image 2026-10-25 at 11.20.19 PM.jpeg" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

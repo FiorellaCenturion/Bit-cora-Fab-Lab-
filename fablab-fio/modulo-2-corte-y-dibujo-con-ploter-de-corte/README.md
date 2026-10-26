@@ -1,8 +1,32 @@
 ---
 icon: star
-cover: ../.gitbook/assets/recursos gitbook (5).png
-coverY: -71.6015325670498
+cover: ../.gitbook/assets/descarga (1).gif
+coverY: 0
 coverHeight: 432
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
 # Módulo 2 • Corte y dibujo con Plóter de corte
@@ -15,11 +39,8 @@ Algo que me pareció interesante de este módulo es que pude comprender que trab
 
 ### <mark style="color:$warning;">**Ojetivos entregables de este módulo:**</mark>  <a href="#entregables" id="entregables"></a>
 
-* [ ] Hacer un vectorizado multicapas de una imagen en **inkscape (o software elegido)**
-* [ ] Crear un diseño 2D con **grasshopper** con **Image Sampler** para dibujar con el plotter
-* [ ] Generar un diseño 2D usando una foto y las paginas web mostradas
-* [ ] Generar un diseño 2D de la ciudad donde vives
-
-
-
+* [x] Hacer un vectorizado multicapas de una imagen en **inkscape (o software elegido)**
+* [x] Crear un diseño 2D con **grasshopper** con **Image Sampler** para dibujar con el plotter
+* [x] Generar un diseño 2D usando una foto y las paginas web mostradas
+* [x] Generar un diseño 2D de la ciudad donde vives
 * [ ] Presentar lo realizado
