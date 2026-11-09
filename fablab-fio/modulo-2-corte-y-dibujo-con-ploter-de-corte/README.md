@@ -43,4 +43,4 @@ Algo que me pareció interesante de este módulo es que pude comprender que trab
 * [x] Crear un diseño 2D con **grasshopper** con **Image Sampler** para dibujar con el plotter
 * [x] Generar un diseño 2D usando una foto y las paginas web mostradas
 * [x] Generar un diseño 2D de la ciudad donde vives
-* [ ] Presentar lo realizado
+* [x] Presentar lo realizado
