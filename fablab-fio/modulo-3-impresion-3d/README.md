@@ -36,14 +36,14 @@ layout:
 * [x] Instalar el software Bambu Estudio.
 * [x] Descargar un test de impresión.
 * [x] Imprimir un diseño 3D test de impresión.
-* [ ] Determinar parámetros de impresión.
-* [ ] Crear un diseño 3D de una vasija con Grasshopper.
-* [ ] Imprimir una vasija diseñada con grasshopper.
-* [ ] Instalar software Autodesk Meshmixer.
-* [ ] Crear un diseño 3D editado con Meshmixer.
-* [ ] Imprimir un modelo editado con el software Meshmixer.
-* [ ] Crear una cuenta SelfCAD.
-* [ ] Diseñar un modelo 3D con el software SelfCAD.
-* [ ] Imprimir un modelo 3D diseñado con el software SelfCAD.
-* [ ] Documentar lo hecho de la semana.
-* [ ] Presentar lo realizado.
+* [x] Determinar parámetros de impresión.
+* [x] Crear un diseño 3D de una vasija con Grasshopper.
+* [x] Imprimir una vasija diseñada con grasshopper.
+* [x] Instalar software Autodesk Meshmixer.
+* [x] Crear un diseño 3D editado con Meshmixer.
+* [x] Imprimir un modelo editado con el software Meshmixer.
+* [x] Crear una cuenta SelfCAD.
+* [x] Diseñar un modelo 3D con el software SelfCAD.
+* [x] Imprimir un modelo 3D diseñado con el software SelfCAD.
+* [x] Documentar lo hecho de la semana.
+* [x] Presentar lo realizado.
