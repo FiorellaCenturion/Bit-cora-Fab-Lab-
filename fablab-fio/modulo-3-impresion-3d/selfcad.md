@@ -3,9 +3,33 @@ description: >-
   Plataforma online de modelado 3D que permite crear, modificar y preparar
   modelos sin necesidad de instalar un programa en la computadora.
 icon: cube
-cover: ../.gitbook/assets/A+AVES+%2831%29_gif 312×228 piksel.gif
-coverY: 16.974712643678163
-coverHeight: 490
+cover: ../.gitbook/assets/kitty.gif
+coverY: 0
+coverHeight: 700
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+    mask: radial
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
 # SelfCAD
