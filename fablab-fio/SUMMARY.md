@@ -19,3 +19,4 @@
   * [Meshmixer](modulo-3-impresion-3d/meshmixer.md)
   * [Grasshopper](modulo-3-impresion-3d/grasshopper.md)
   * [SelfCAD](modulo-3-impresion-3d/selfcad.md)
+  * [La torre más alta de fideos](modulo-3-impresion-3d/la-torre-mas-alta-de-fideos.md)
