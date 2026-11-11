@@ -36,7 +36,7 @@ Para este desafío teníamos que diseñar y construir una torre utilizando fideo
 
 El objetivo era conseguir la mayor altura posible, manteniendo la estabilidad de la estructura y respetando las condiciones establecidas para el ejercicio.
 
-**Material utilizado:** fideos tipo Fogatini.
+**Material utilizado:** fideos Forattini![](<../.gitbook/assets/920e1da8da935d5d55c7b61118282bc0-666x666 (1).jpg>)
 
 <details>
 
@@ -153,7 +153,11 @@ Esta torre resultó estable, encontramos que la clave era la utilización de má
 
 <figure><img src="../.gitbook/assets/26.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+**Documentación de sof** 𐔌՞ ܸ.ˬ.ܸ՞𐦯
 
+{% embed url="https://sofia-zarza.gitbook.io/sofia-zarza/modulo-3/desafio-extra" %}
+{% endhint %}
 
 {% tabs %}
 {% tab title="Archivos utilizados para este trabajo" %}
